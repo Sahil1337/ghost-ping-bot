@@ -1,4 +1,4 @@
-<h1 align="center">Ghost Ping Botr</h1>
+<h1 align="center">Ghost Ping Bot</h1>
 
 ## 📝 Starting Up
 1. Run `npm install` to install all packages
