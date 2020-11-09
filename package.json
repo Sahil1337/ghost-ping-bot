@@ -1,0 +1,16 @@
+{
+  "name": "ghost-ping-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+  "node": "12.x"
+  },
+  "author": "ItzCutePichu (HELLMAKER, https://github.com/HELLMAKER0001",
+  "license": "GNU",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+  }
+}
