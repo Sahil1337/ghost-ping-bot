@@ -5,5 +5,5 @@ module.exports = async(client, member) => {
     setTimeout(async() => {
         await message.delete();
         console.log(`done ghost ping for ${member.user.username}`)
-    })
+    }, 1000) //1000ms = 1sec
 }
